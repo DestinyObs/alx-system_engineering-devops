@@ -1,0 +1,2 @@
+#!/bin/bash
+[erl -lne 'print 1f $. 2 == 1'
